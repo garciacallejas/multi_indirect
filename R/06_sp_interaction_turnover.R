@@ -60,6 +60,8 @@ dissim.dist.plot <- ggplot(all.dd.long, aes(x = neardist, y = value, group = met
 
 # -------------------------------------------------------------------------
 
+# write.csv2(all.dd.long,"results/dissimilarity_between_sites.csv",row.names = F)
+
 # ggsave(filename = "results/images/turnover_distance.pdf",plot = dissim.dist.plot,
 #        device = cairo_pdf,
 #        width = 8,height = 5,dpi = 300)

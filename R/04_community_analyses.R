@@ -31,18 +31,18 @@ comm.null.metrics <- read.csv2("results/melbourne_community_null_metrics.csv")
 # # -------------------------------------------------------------------------
 # # body size - species metrics
 # 
-# sp.full.data <- left_join(sp.metrics,sp.info)
-# sp.body.size.data <- subset(sp.full.data, !is.na(size))
-# 
-# sp.bs.wide <- pivot_wider(sp.body.size.data, names_from = "metric",values_from = "value")
-# sp.bs.wide.clean <- sp.bs.wide[complete.cases(sp.bs.wide),]
+sp.full.data <- left_join(sp.metrics,sp.info)
+sp.body.size.data <- subset(sp.full.data, !is.na(size))
+
+sp.bs.wide <- pivot_wider(sp.body.size.data, names_from = "metric",values_from = "value")
+sp.bs.wide.clean <- sp.bs.wide[complete.cases(sp.bs.wide),]
 
 # -------------------------------------------------------------------------
 # visualization
 pd <- .2
 metrics.plot <- ggplot(comm.metrics, aes(x = value, y = size)) + 
-  geom_point(aes(color = functional.group), position = position_jitter(pd)) +
-  geom_boxplot(aes(fill = functional.group), alpha = .4) + 
+  geom_point(aes(color = interaction_type), position = position_jitter(pd)) +
+  geom_boxplot(aes(fill = interaction_type), alpha = .4) + 
   theme(legend.position="none") +
   NULL
 # size.plot

@@ -1,15 +1,15 @@
 "site";"interaction_type";"metric";"value"
-"Argyle Square";"Pollinator";"richness";NA
-"Argyle Square";"Pollinator";"connectance";NA
-"Argyle Square";"Pollinator";"link_density";NA
-"Argyle Square";"Pollinator";"degree_heterogeneity";NA
-"Argyle Square";"Pollinator";"modularity_eigen";NA
-"Argyle Square";"Pollinator";"modularity_betweenness";NA
-"Argyle Square";"Pollinator";"nestedness";NA
-"Argyle Square";"Pollinator";"centrality_degree";NA
-"Argyle Square";"Pollinator";"centrality_betweenness";NA
-"Argyle Square";"Pollinator";"centrality_eigen";NA
-"Argyle Square";"Pollinator";"interaction_overlap";NA
+"Argyle Square";"Pollinator";"richness";25
+"Argyle Square";"Pollinator";"connectance";0,8
+"Argyle Square";"Pollinator";"link_density";9,6
+"Argyle Square";"Pollinator";"degree_heterogeneity";3,13180135262842
+"Argyle Square";"Pollinator";"modularity_eigen";0,0421875
+"Argyle Square";"Pollinator";"modularity_betweenness";0,00375
+"Argyle Square";"Pollinator";"nestedness";3,33333333333333
+"Argyle Square";"Pollinator";"centrality_degree";0,0737847222222222
+"Argyle Square";"Pollinator";"centrality_betweenness";0,209273968784838
+"Argyle Square";"Pollinator";"centrality_eigen";0,221140210183144
+"Argyle Square";"Pollinator";"interaction_overlap";0,766507177033493
 "Argyle Square";"Herbivore";"richness";30
 "Argyle Square";"Herbivore";"connectance";0,24
 "Argyle Square";"Herbivore";"link_density";3,2
@@ -43,39 +43,61 @@
 "Canning/Neil Street Reserve";"Herbivore";"centrality_betweenness";0,476190476190476
 "Canning/Neil Street Reserve";"Herbivore";"centrality_eigen";0,793988670416702
 "Canning/Neil Street Reserve";"Herbivore";"interaction_overlap";0,5
-"Carlton Gardens South";"Pollinator";"richness";12
-"Carlton Gardens South";"Pollinator";"connectance";0,28125
-"Carlton Gardens South";"Pollinator";"link_density";1,5
-"Carlton Gardens South";"Pollinator";"degree_heterogeneity";2,21610224809126
-"Carlton Gardens South";"Pollinator";"modularity_eigen";0,493827160493827
-"Carlton Gardens South";"Pollinator";"modularity_betweenness";0,493827160493827
-"Carlton Gardens South";"Pollinator";"nestedness";0
-"Carlton Gardens South";"Pollinator";"centrality_degree";0,223140495867769
-"Carlton Gardens South";"Pollinator";"centrality_betweenness";0,271074380165289
-"Carlton Gardens South";"Pollinator";"centrality_eigen";0,855051025721682
-"Carlton Gardens South";"Pollinator";"interaction_overlap";0,59375
+"Canning/Neill St Reserve";"Pollinator";"richness";NA
+"Canning/Neill St Reserve";"Pollinator";"connectance";NA
+"Canning/Neill St Reserve";"Pollinator";"link_density";NA
+"Canning/Neill St Reserve";"Pollinator";"degree_heterogeneity";NA
+"Canning/Neill St Reserve";"Pollinator";"modularity_eigen";NA
+"Canning/Neill St Reserve";"Pollinator";"modularity_betweenness";NA
+"Canning/Neill St Reserve";"Pollinator";"nestedness";NA
+"Canning/Neill St Reserve";"Pollinator";"centrality_degree";NA
+"Canning/Neill St Reserve";"Pollinator";"centrality_betweenness";NA
+"Canning/Neill St Reserve";"Pollinator";"centrality_eigen";NA
+"Canning/Neill St Reserve";"Pollinator";"interaction_overlap";NA
+"Canning/Neill St Reserve";"Herbivore";"richness";NA
+"Canning/Neill St Reserve";"Herbivore";"connectance";NA
+"Canning/Neill St Reserve";"Herbivore";"link_density";NA
+"Canning/Neill St Reserve";"Herbivore";"degree_heterogeneity";NA
+"Canning/Neill St Reserve";"Herbivore";"modularity_eigen";NA
+"Canning/Neill St Reserve";"Herbivore";"modularity_betweenness";NA
+"Canning/Neill St Reserve";"Herbivore";"nestedness";NA
+"Canning/Neill St Reserve";"Herbivore";"centrality_degree";NA
+"Canning/Neill St Reserve";"Herbivore";"centrality_betweenness";NA
+"Canning/Neill St Reserve";"Herbivore";"centrality_eigen";NA
+"Canning/Neill St Reserve";"Herbivore";"interaction_overlap";NA
+"Carlton Gardens South";"Pollinator";"richness";47
+"Carlton Gardens South";"Pollinator";"connectance";0,631221719457014
+"Carlton Gardens South";"Pollinator";"link_density";11,8723404255319
+"Carlton Gardens South";"Pollinator";"degree_heterogeneity";3,57039104295173
+"Carlton Gardens South";"Pollinator";"modularity_eigen";0,04768695160648
+"Carlton Gardens South";"Pollinator";"modularity_betweenness";0,0213255225395357
+"Carlton Gardens South";"Pollinator";"nestedness";11,8935837245696
+"Carlton Gardens South";"Pollinator";"centrality_degree";0,201323251417769
+"Carlton Gardens South";"Pollinator";"centrality_betweenness";0,0631632010081915
+"Carlton Gardens South";"Pollinator";"centrality_eigen";0,475536405136112
+"Carlton Gardens South";"Pollinator";"interaction_overlap";0,776783496961971
 "Carlton Gardens South";"Herbivore";"richness";56
 "Carlton Gardens South";"Herbivore";"connectance";0,121657754010695
 "Carlton Gardens South";"Herbivore";"link_density";3,25
 "Carlton Gardens South";"Herbivore";"degree_heterogeneity";3,57727000744972
-"Carlton Gardens South";"Herbivore";"modularity_eigen";0,336613935515034
+"Carlton Gardens South";"Herbivore";"modularity_eigen";0,336855452240068
 "Carlton Gardens South";"Herbivore";"modularity_betweenness";0,0861007124743389
 "Carlton Gardens South";"Herbivore";"nestedness";22,1107904441238
 "Carlton Gardens South";"Herbivore";"centrality_degree";0,164297520661157
 "Carlton Gardens South";"Herbivore";"centrality_betweenness";0,498669099184227
 "Carlton Gardens South";"Herbivore";"centrality_eigen";0,823501257594359
 "Carlton Gardens South";"Herbivore";"interaction_overlap";0,4516792665553
-"Fitzroy-Treasury Gardens";"Pollinator";"richness";12
-"Fitzroy-Treasury Gardens";"Pollinator";"connectance";0,333333333333333
-"Fitzroy-Treasury Gardens";"Pollinator";"link_density";1,5
-"Fitzroy-Treasury Gardens";"Pollinator";"degree_heterogeneity";2,26020362299756
-"Fitzroy-Treasury Gardens";"Pollinator";"modularity_eigen";0,567901234567901
-"Fitzroy-Treasury Gardens";"Pollinator";"modularity_betweenness";0,567901234567901
-"Fitzroy-Treasury Gardens";"Pollinator";"nestedness";0
-"Fitzroy-Treasury Gardens";"Pollinator";"centrality_degree";0,173553719008264
-"Fitzroy-Treasury Gardens";"Pollinator";"centrality_betweenness";0,176859504132231
-"Fitzroy-Treasury Gardens";"Pollinator";"centrality_eigen";0,876393202250021
-"Fitzroy-Treasury Gardens";"Pollinator";"interaction_overlap";0,432098765432099
+"Fitzroy-Treasury Gardens";"Pollinator";"richness";60
+"Fitzroy-Treasury Gardens";"Pollinator";"connectance";0,671875
+"Fitzroy-Treasury Gardens";"Pollinator";"link_density";12,9
+"Fitzroy-Treasury Gardens";"Pollinator";"degree_heterogeneity";3,72587998525107
+"Fitzroy-Treasury Gardens";"Pollinator";"modularity_eigen";0,0390234294146319
+"Fitzroy-Treasury Gardens";"Pollinator";"modularity_betweenness";0,0171196976677416
+"Fitzroy-Treasury Gardens";"Pollinator";"nestedness";7,6214405360134
+"Fitzroy-Treasury Gardens";"Pollinator";"centrality_degree";0,250790002872738
+"Fitzroy-Treasury Gardens";"Pollinator";"centrality_betweenness";0,0799215445422936
+"Fitzroy-Treasury Gardens";"Pollinator";"centrality_eigen";0,542629920896817
+"Fitzroy-Treasury Gardens";"Pollinator";"interaction_overlap";0,767445009303562
 "Fitzroy-Treasury Gardens";"Herbivore";"richness";85
 "Fitzroy-Treasury Gardens";"Herbivore";"connectance";0,0968858131487889
 "Fitzroy-Treasury Gardens";"Herbivore";"link_density";3,95294117647059
@@ -87,17 +109,17 @@
 "Fitzroy-Treasury Gardens";"Herbivore";"centrality_betweenness";0,395341330412073
 "Fitzroy-Treasury Gardens";"Herbivore";"centrality_eigen";0,833878156537312
 "Fitzroy-Treasury Gardens";"Herbivore";"interaction_overlap";0,433704208840796
-"Gardiner Reserve";"Pollinator";"richness";NA
-"Gardiner Reserve";"Pollinator";"connectance";NA
-"Gardiner Reserve";"Pollinator";"link_density";NA
-"Gardiner Reserve";"Pollinator";"degree_heterogeneity";NA
-"Gardiner Reserve";"Pollinator";"modularity_eigen";NA
-"Gardiner Reserve";"Pollinator";"modularity_betweenness";NA
-"Gardiner Reserve";"Pollinator";"nestedness";NA
-"Gardiner Reserve";"Pollinator";"centrality_degree";NA
-"Gardiner Reserve";"Pollinator";"centrality_betweenness";NA
-"Gardiner Reserve";"Pollinator";"centrality_eigen";NA
-"Gardiner Reserve";"Pollinator";"interaction_overlap";NA
+"Gardiner Reserve";"Pollinator";"richness";12
+"Gardiner Reserve";"Pollinator";"connectance";1
+"Gardiner Reserve";"Pollinator";"link_density";4,5
+"Gardiner Reserve";"Pollinator";"degree_heterogeneity";2,34106561356211
+"Gardiner Reserve";"Pollinator";"modularity_eigen";0
+"Gardiner Reserve";"Pollinator";"modularity_betweenness";5,55111512312578e-17
+"Gardiner Reserve";"Pollinator";"nestedness";0
+"Gardiner Reserve";"Pollinator";"centrality_degree";0,223140495867769
+"Gardiner Reserve";"Pollinator";"centrality_betweenness";0,173553719008264
+"Gardiner Reserve";"Pollinator";"centrality_eigen";0,380384757729337
+"Gardiner Reserve";"Pollinator";"interaction_overlap";1
 "Gardiner Reserve";"Herbivore";"richness";8
 "Gardiner Reserve";"Herbivore";"connectance";0,666666666666667
 "Gardiner Reserve";"Herbivore";"link_density";2
@@ -109,17 +131,17 @@
 "Gardiner Reserve";"Herbivore";"centrality_betweenness";0,843537414965986
 "Gardiner Reserve";"Herbivore";"centrality_eigen";0,662110084645692
 "Gardiner Reserve";"Herbivore";"interaction_overlap";0,75
-"Garrard Street Reserve";"Pollinator";"richness";NA
-"Garrard Street Reserve";"Pollinator";"connectance";NA
-"Garrard Street Reserve";"Pollinator";"link_density";NA
-"Garrard Street Reserve";"Pollinator";"degree_heterogeneity";NA
-"Garrard Street Reserve";"Pollinator";"modularity_eigen";NA
-"Garrard Street Reserve";"Pollinator";"modularity_betweenness";NA
-"Garrard Street Reserve";"Pollinator";"nestedness";NA
-"Garrard Street Reserve";"Pollinator";"centrality_degree";NA
-"Garrard Street Reserve";"Pollinator";"centrality_betweenness";NA
-"Garrard Street Reserve";"Pollinator";"centrality_eigen";NA
-"Garrard Street Reserve";"Pollinator";"interaction_overlap";NA
+"Garrard Street Reserve";"Pollinator";"richness";14
+"Garrard Street Reserve";"Pollinator";"connectance";1
+"Garrard Street Reserve";"Pollinator";"link_density";6,42857142857143
+"Garrard Street Reserve";"Pollinator";"degree_heterogeneity";2,59647842544511
+"Garrard Street Reserve";"Pollinator";"modularity_eigen";0
+"Garrard Street Reserve";"Pollinator";"modularity_betweenness";0
+"Garrard Street Reserve";"Pollinator";"nestedness";0
+"Garrard Street Reserve";"Pollinator";"centrality_degree";0,106508875739645
+"Garrard Street Reserve";"Pollinator";"centrality_betweenness";0,0540433925049309
+"Garrard Street Reserve";"Pollinator";"centrality_eigen";0,190983005625053
+"Garrard Street Reserve";"Pollinator";"interaction_overlap";1
 "Garrard Street Reserve";"Herbivore";"richness";13
 "Garrard Street Reserve";"Herbivore";"connectance";0,545454545454545
 "Garrard Street Reserve";"Herbivore";"link_density";1,84615384615385
@@ -131,17 +153,17 @@
 "Garrard Street Reserve";"Herbivore";"centrality_betweenness";0,680555555555556
 "Garrard Street Reserve";"Herbivore";"centrality_eigen";0,750399404134402
 "Garrard Street Reserve";"Herbivore";"interaction_overlap";0,583333333333333
-"Lincoln Square";"Pollinator";"richness";4
-"Lincoln Square";"Pollinator";"connectance";0,5
-"Lincoln Square";"Pollinator";"link_density";1
-"Lincoln Square";"Pollinator";"degree_heterogeneity";1,38629436111989
-"Lincoln Square";"Pollinator";"modularity_eigen";0,5
-"Lincoln Square";"Pollinator";"modularity_betweenness";0,5
-"Lincoln Square";"Pollinator";"nestedness";0
-"Lincoln Square";"Pollinator";"centrality_degree";0
-"Lincoln Square";"Pollinator";"centrality_betweenness";0
-"Lincoln Square";"Pollinator";"centrality_eigen";3,12135893545396e-05
-"Lincoln Square";"Pollinator";"interaction_overlap";0,5
+"Lincoln Square";"Pollinator";"richness";23
+"Lincoln Square";"Pollinator";"connectance";0,765151515151515
+"Lincoln Square";"Pollinator";"link_density";8,78260869565217
+"Lincoln Square";"Pollinator";"degree_heterogeneity";3,04011079196933
+"Lincoln Square";"Pollinator";"modularity_eigen";0,0323987844328986
+"Lincoln Square";"Pollinator";"modularity_betweenness";0,0196059209881385
+"Lincoln Square";"Pollinator";"nestedness";8,26446280991735
+"Lincoln Square";"Pollinator";"centrality_degree";0,0526859504132231
+"Lincoln Square";"Pollinator";"centrality_betweenness";0,0771886515688168
+"Lincoln Square";"Pollinator";"centrality_eigen";0,188274533773861
+"Lincoln Square";"Pollinator";"interaction_overlap";0,839912280701754
 "Lincoln Square";"Herbivore";"richness";19
 "Lincoln Square";"Herbivore";"connectance";0,320512820512821
 "Lincoln Square";"Herbivore";"link_density";2,63157894736842
@@ -153,17 +175,17 @@
 "Lincoln Square";"Herbivore";"centrality_betweenness";0,309093266936404
 "Lincoln Square";"Herbivore";"centrality_eigen";0,621446192102233
 "Lincoln Square";"Herbivore";"interaction_overlap";0,490840949174283
-"Murchinson Square";"Pollinator";"richness";NA
-"Murchinson Square";"Pollinator";"connectance";NA
-"Murchinson Square";"Pollinator";"link_density";NA
-"Murchinson Square";"Pollinator";"degree_heterogeneity";NA
-"Murchinson Square";"Pollinator";"modularity_eigen";NA
-"Murchinson Square";"Pollinator";"modularity_betweenness";NA
-"Murchinson Square";"Pollinator";"nestedness";NA
-"Murchinson Square";"Pollinator";"centrality_degree";NA
-"Murchinson Square";"Pollinator";"centrality_betweenness";NA
-"Murchinson Square";"Pollinator";"centrality_eigen";NA
-"Murchinson Square";"Pollinator";"interaction_overlap";NA
+"Murchinson Square";"Pollinator";"richness";14
+"Murchinson Square";"Pollinator";"connectance";0,7
+"Murchinson Square";"Pollinator";"link_density";4
+"Murchinson Square";"Pollinator";"degree_heterogeneity";2,43628748748306
+"Murchinson Square";"Pollinator";"modularity_eigen";0,0688775510204082
+"Murchinson Square";"Pollinator";"modularity_betweenness";0,0688775510204082
+"Murchinson Square";"Pollinator";"nestedness";0
+"Murchinson Square";"Pollinator";"centrality_degree";0,207100591715976
+"Murchinson Square";"Pollinator";"centrality_betweenness";0,127218934911243
+"Murchinson Square";"Pollinator";"centrality_eigen";0,483653964774447
+"Murchinson Square";"Pollinator";"interaction_overlap";0,625
 "Murchinson Square";"Herbivore";"richness";9
 "Murchinson Square";"Herbivore";"connectance";0,642857142857143
 "Murchinson Square";"Herbivore";"link_density";2
@@ -175,17 +197,17 @@
 "Murchinson Square";"Herbivore";"centrality_betweenness";0,725446428571429
 "Murchinson Square";"Herbivore";"centrality_eigen";0,666466636061542
 "Murchinson Square";"Herbivore";"interaction_overlap";0,722222222222222
-"Pleasance Gardens";"Pollinator";"richness";NA
-"Pleasance Gardens";"Pollinator";"connectance";NA
-"Pleasance Gardens";"Pollinator";"link_density";NA
-"Pleasance Gardens";"Pollinator";"degree_heterogeneity";NA
-"Pleasance Gardens";"Pollinator";"modularity_eigen";NA
-"Pleasance Gardens";"Pollinator";"modularity_betweenness";NA
-"Pleasance Gardens";"Pollinator";"nestedness";NA
-"Pleasance Gardens";"Pollinator";"centrality_degree";NA
-"Pleasance Gardens";"Pollinator";"centrality_betweenness";NA
-"Pleasance Gardens";"Pollinator";"centrality_eigen";NA
-"Pleasance Gardens";"Pollinator";"interaction_overlap";NA
+"Pleasance Gardens";"Pollinator";"richness";15
+"Pleasance Gardens";"Pollinator";"connectance";0,863636363636364
+"Pleasance Gardens";"Pollinator";"link_density";5,06666666666667
+"Pleasance Gardens";"Pollinator";"degree_heterogeneity";2,5464108588498
+"Pleasance Gardens";"Pollinator";"modularity_eigen";0,0467451523545708
+"Pleasance Gardens";"Pollinator";"modularity_betweenness";0,0249307479224377
+"Pleasance Gardens";"Pollinator";"nestedness";32,7868852459016
+"Pleasance Gardens";"Pollinator";"centrality_degree";0,227040816326531
+"Pleasance Gardens";"Pollinator";"centrality_betweenness";0,343014128728414
+"Pleasance Gardens";"Pollinator";"centrality_eigen";0,393922468199263
+"Pleasance Gardens";"Pollinator";"interaction_overlap";0,9625
 "Pleasance Gardens";"Herbivore";"richness";16
 "Pleasance Gardens";"Herbivore";"connectance";0,678571428571429
 "Pleasance Gardens";"Herbivore";"link_density";2,375
@@ -197,17 +219,17 @@
 "Pleasance Gardens";"Herbivore";"centrality_betweenness";0,745396825396825
 "Pleasance Gardens";"Herbivore";"centrality_eigen";0,727083056901746
 "Pleasance Gardens";"Herbivore";"interaction_overlap";0,763157894736842
-"Princes Park";"Pollinator";"richness";NA
-"Princes Park";"Pollinator";"connectance";NA
-"Princes Park";"Pollinator";"link_density";NA
-"Princes Park";"Pollinator";"degree_heterogeneity";NA
-"Princes Park";"Pollinator";"modularity_eigen";NA
-"Princes Park";"Pollinator";"modularity_betweenness";NA
-"Princes Park";"Pollinator";"nestedness";NA
-"Princes Park";"Pollinator";"centrality_degree";NA
-"Princes Park";"Pollinator";"centrality_betweenness";NA
-"Princes Park";"Pollinator";"centrality_eigen";NA
-"Princes Park";"Pollinator";"interaction_overlap";NA
+"Princes Park";"Pollinator";"richness";26
+"Princes Park";"Pollinator";"connectance";0,75
+"Princes Park";"Pollinator";"link_density";9,23076923076923
+"Princes Park";"Pollinator";"degree_heterogeneity";3,14534647651973
+"Princes Park";"Pollinator";"modularity_eigen";0,04875
+"Princes Park";"Pollinator";"modularity_betweenness";0,0487500000000001
+"Princes Park";"Pollinator";"nestedness";0
+"Princes Park";"Pollinator";"centrality_degree";0,0784
+"Princes Park";"Pollinator";"centrality_betweenness";0,0144444444444444
+"Princes Park";"Pollinator";"centrality_eigen";0,257639423900335
+"Princes Park";"Pollinator";"interaction_overlap";0,6953125
 "Princes Park";"Herbivore";"richness";93
 "Princes Park";"Herbivore";"connectance";0,103129445234708
 "Princes Park";"Herbivore";"link_density";3,11827956989247
@@ -217,19 +239,19 @@
 "Princes Park";"Herbivore";"nestedness";13,3163404994881
 "Princes Park";"Herbivore";"centrality_degree";0,114721172022684
 "Princes Park";"Herbivore";"centrality_betweenness";0,475614551085009
-"Princes Park";"Herbivore";"centrality_eigen";0,832372070049548
+"Princes Park";"Herbivore";"centrality_eigen";0,832372070049549
 "Princes Park";"Herbivore";"interaction_overlap";0,288354086572779
-"Royal Park";"Pollinator";"richness";20
-"Royal Park";"Pollinator";"connectance";0,141414141414141
-"Royal Park";"Pollinator";"link_density";1,4
-"Royal Park";"Pollinator";"degree_heterogeneity";2,89874553958634
-"Royal Park";"Pollinator";"modularity_eigen";0,732142857142857
-"Royal Park";"Pollinator";"modularity_betweenness";0,714285714285714
-"Royal Park";"Pollinator";"nestedness";6,04395604395604
-"Royal Park";"Pollinator";"centrality_degree";0,0443213296398892
-"Royal Park";"Pollinator";"centrality_betweenness";0,0569405971068021
-"Royal Park";"Pollinator";"centrality_eigen";0,874044412032708
-"Royal Park";"Pollinator";"interaction_overlap";0,162139917695473
+"Royal Park";"Pollinator";"richness";92
+"Royal Park";"Pollinator";"connectance";0,409722222222222
+"Royal Park";"Pollinator";"link_density";12,8260869565217
+"Royal Park";"Pollinator";"degree_heterogeneity";3,95758692638239
+"Royal Park";"Pollinator";"modularity_eigen";0,0462295317437517
+"Royal Park";"Pollinator";"modularity_betweenness";0,0434243033611032
+"Royal Park";"Pollinator";"nestedness";1,83903860160233
+"Royal Park";"Pollinator";"centrality_degree";0,284265185364086
+"Royal Park";"Pollinator";"centrality_betweenness";0,0510673697486883
+"Royal Park";"Pollinator";"centrality_eigen";0,655378024180765
+"Royal Park";"Pollinator";"interaction_overlap";0,791184752003465
 "Royal Park";"Herbivore";"richness";189
 "Royal Park";"Herbivore";"connectance";0,0659041394335512
 "Royal Park";"Herbivore";"link_density";3,84126984126984
@@ -241,17 +263,17 @@
 "Royal Park";"Herbivore";"centrality_betweenness";0,344833819742211
 "Royal Park";"Herbivore";"centrality_eigen";0,872477263371064
 "Royal Park";"Herbivore";"interaction_overlap";0,208714763470989
-"State Library of Victoria";"Pollinator";"richness";NA
-"State Library of Victoria";"Pollinator";"connectance";NA
-"State Library of Victoria";"Pollinator";"link_density";NA
-"State Library of Victoria";"Pollinator";"degree_heterogeneity";NA
-"State Library of Victoria";"Pollinator";"modularity_eigen";NA
-"State Library of Victoria";"Pollinator";"modularity_betweenness";NA
-"State Library of Victoria";"Pollinator";"nestedness";NA
-"State Library of Victoria";"Pollinator";"centrality_degree";NA
-"State Library of Victoria";"Pollinator";"centrality_betweenness";NA
-"State Library of Victoria";"Pollinator";"centrality_eigen";NA
-"State Library of Victoria";"Pollinator";"interaction_overlap";NA
+"State Library of Victoria";"Pollinator";"richness";16
+"State Library of Victoria";"Pollinator";"connectance";0,766666666666667
+"State Library of Victoria";"Pollinator";"link_density";5,75
+"State Library of Victoria";"Pollinator";"degree_heterogeneity";2,65983409835704
+"State Library of Victoria";"Pollinator";"modularity_eigen";0,0425330812854443
+"State Library of Victoria";"Pollinator";"modularity_betweenness";0,0425330812854443
+"State Library of Victoria";"Pollinator";"nestedness";0
+"State Library of Victoria";"Pollinator";"centrality_degree";0,115555555555556
+"State Library of Victoria";"Pollinator";"centrality_betweenness";0,0439365079365079
+"State Library of Victoria";"Pollinator";"centrality_eigen";0,306556861964331
+"State Library of Victoria";"Pollinator";"interaction_overlap";0,722222222222222
 "State Library of Victoria";"Herbivore";"richness";26
 "State Library of Victoria";"Herbivore";"connectance";0,228758169934641
 "State Library of Victoria";"Herbivore";"link_density";2,69230769230769
@@ -285,17 +307,17 @@
 "University Square";"Herbivore";"centrality_betweenness";0,425431711145997
 "University Square";"Herbivore";"centrality_eigen";0,655163866862687
 "University Square";"Herbivore";"interaction_overlap";0,561149961149961
-"Westgate Park";"Pollinator";"richness";12
-"Westgate Park";"Pollinator";"connectance";0,194444444444444
-"Westgate Park";"Pollinator";"link_density";1,16666666666667
-"Westgate Park";"Pollinator";"degree_heterogeneity";2,4410152780267
-"Westgate Park";"Pollinator";"modularity_eigen";0,73469387755102
-"Westgate Park";"Pollinator";"modularity_betweenness";0,73469387755102
-"Westgate Park";"Pollinator";"nestedness";6,66666666666667
-"Westgate Park";"Pollinator";"centrality_degree";0,0413223140495868
-"Westgate Park";"Pollinator";"centrality_betweenness";0,0330578512396694
-"Westgate Park";"Pollinator";"centrality_eigen";0,876393202250021
-"Westgate Park";"Pollinator";"interaction_overlap";0,203703703703704
+"Westgate Park";"Pollinator";"richness";49
+"Westgate Park";"Pollinator";"connectance";0,507843137254902
+"Westgate Park";"Pollinator";"link_density";10,5714285714286
+"Westgate Park";"Pollinator";"degree_heterogeneity";3,5546302253191
+"Westgate Park";"Pollinator";"modularity_eigen";0,0531297983035435
+"Westgate Park";"Pollinator";"modularity_betweenness";0,0531297983035435
+"Westgate Park";"Pollinator";"nestedness";0,3003003003003
+"Westgate Park";"Pollinator";"centrality_degree";0,185329861111111
+"Westgate Park";"Pollinator";"centrality_betweenness";0,0302895981087471
+"Westgate Park";"Pollinator";"centrality_eigen";0,513308343268351
+"Westgate Park";"Pollinator";"interaction_overlap";0,684544405997693
 "Westgate Park";"Herbivore";"richness";101
 "Westgate Park";"Herbivore";"connectance";0,0741341991341991
 "Westgate Park";"Herbivore";"link_density";2,71287128712871
@@ -329,3 +351,25 @@
 "Women's Peace Gardens";"Herbivore";"centrality_betweenness";0,343918409457982
 "Women's Peace Gardens";"Herbivore";"centrality_eigen";0,678900633493373
 "Women's Peace Gardens";"Herbivore";"interaction_overlap";0,430756632256632
+"Womens Peace Gardens";"Pollinator";"richness";25
+"Womens Peace Gardens";"Pollinator";"connectance";1
+"Womens Peace Gardens";"Pollinator";"link_density";11,52
+"Womens Peace Gardens";"Pollinator";"degree_heterogeneity";3,17805383034795
+"Womens Peace Gardens";"Pollinator";"modularity_eigen";0
+"Womens Peace Gardens";"Pollinator";"modularity_betweenness";0
+"Womens Peace Gardens";"Pollinator";"nestedness";0
+"Womens Peace Gardens";"Pollinator";"centrality_degree";0,0972222222222222
+"Womens Peace Gardens";"Pollinator";"centrality_betweenness";0,0267713365539453
+"Womens Peace Gardens";"Pollinator";"centrality_eigen";0,173913043478261
+"Womens Peace Gardens";"Pollinator";"interaction_overlap";1
+"Womens Peace Gardens";"Herbivore";"richness";NA
+"Womens Peace Gardens";"Herbivore";"connectance";NA
+"Womens Peace Gardens";"Herbivore";"link_density";NA
+"Womens Peace Gardens";"Herbivore";"degree_heterogeneity";NA
+"Womens Peace Gardens";"Herbivore";"modularity_eigen";NA
+"Womens Peace Gardens";"Herbivore";"modularity_betweenness";NA
+"Womens Peace Gardens";"Herbivore";"nestedness";NA
+"Womens Peace Gardens";"Herbivore";"centrality_degree";NA
+"Womens Peace Gardens";"Herbivore";"centrality_betweenness";NA
+"Womens Peace Gardens";"Herbivore";"centrality_eigen";NA
+"Womens Peace Gardens";"Herbivore";"interaction_overlap";NA
